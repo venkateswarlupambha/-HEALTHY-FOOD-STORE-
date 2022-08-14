@@ -40,6 +40,9 @@ There are also a programmes conducted by our food store ( KIWI)i.e; Sustainabili
 ![Screenshot_20220813-084455~2](https://user-images.githubusercontent.com/110820099/184526772-5ceb7893-bd76-4000-8ef4-5b556ea90741.jpg)
 
 ## Privacy and cookies 
+![Screenshot_20220813-092325~2](https://user-images.githubusercontent.com/110820099/184526846-6044d043-5bbb-46f7-9e7f-700138b9a7c9.jpg)
+
+## Privacy policy 
 
 
 
