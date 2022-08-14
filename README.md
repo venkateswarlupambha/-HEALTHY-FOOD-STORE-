@@ -1,7 +1,7 @@
 
 ✨ HEALTHY FOOD 🍞 STORE ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for health related norwin based website 
 
 ### This web based food store application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -36,16 +36,26 @@ There are also a programmes conducted by our food store ( KIWI)i.e; Sustainabili
 ## Screenshots
 ![Screenshot_20220814-124705~2](https://user-images.githubusercontent.com/110820099/184526631-67480a00-2d5a-44cc-bdd1-69843e609ed9.jpg)
 
-## About us 
+### About us 
 ![Screenshot_20220813-084455~2](https://user-images.githubusercontent.com/110820099/184526772-5ceb7893-bd76-4000-8ef4-5b556ea90741.jpg)
 
-## Privacy and cookies 
+### Privacy and cookies 
 ![Screenshot_20220813-092325~2](https://user-images.githubusercontent.com/110820099/184526846-6044d043-5bbb-46f7-9e7f-700138b9a7c9.jpg)
 
-## Privacy policy 
+### Privacy policy 
 ![Screenshot_20220813-114231~2](https://user-images.githubusercontent.com/110820099/184526921-acc12d37-f59b-434d-a38d-c03527b1dcac.jpg)
 
+## Tech Stack 💻
 
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+
+- HTML
+
+- Python
+
+- Bootstrap
+
+- JavaScript
 
 
 
