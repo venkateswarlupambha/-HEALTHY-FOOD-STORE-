@@ -20,6 +20,18 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 
 - Included the feedback Survey form to increase the scope of improvement 
+## Project Title 🧐
+         ✨ Healthy food🍞Store ✨
+## Project Description 😃
+Health based food store in Norwin where you can easily find as we allowed a option of "Location" where you can search your particular area to get your healthy food.Both our coustomers and our employees are increasingly concerned with sustainability. We have organised our sustainability in three main types ;
+
+1.Environment,
+
+2.Health,
+
+3.People.
+
+There are also a programmes conducted by our food store ( KIWI)i.e; Sustainability course at KIWI school.As it is a food store there are also a healthy benefits Like ; Becoming a member in KIWIplus and get tampon agreement ; Customer benefits for families and children such as KIWI birthday club,daiper agreement, Baby's pack and encourage the customers by Trump visa and 60% discount on fruit and vegetables for sports team. It is trustable as food srore provides a card for the regular customers and detailed view and everything has been uploaded in my project and there also an app who can even order by online which healthy they needed in time . Customer can contact us as Trump customer service and all inquires KIWIplus and Trump membership.Also be followed us on Facebook, Instagram, YouTube.
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
