@@ -51,7 +51,7 @@ There are also a programmes conducted by our food store ( KIWI)i.e; Sustainabili
 
 - HTML
 
-- Python
+- CSS
 
 - Bootstrap
 
